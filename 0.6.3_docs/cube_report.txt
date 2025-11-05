@@ -1,0 +1,6 @@
+=== CubeTrix 0.6.3 Report ===
+Steps: 3000
+Φ mean=0.2794±0.0000
+λ mean=0.0501±0.0016
+ΔS mean=1.1776±0.0368
+Anomalies=1
